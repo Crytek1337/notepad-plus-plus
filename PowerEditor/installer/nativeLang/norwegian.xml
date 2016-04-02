@@ -15,7 +15,7 @@
 					<Item menuId="language" name = "&amp;Språk" />
 					<Item menuId="settings" name = "&amp;Oppsett" />
 					<Item menuId="macro" name = "Makro" />
-					<Item menuId="run" name = "Utfør"/>
+					<Item menuId="run" name = "Kjør"/>
 					<Item idName  =  "Plugins" name  =  "Tillegg"/>
 					<Item idName  =  "Window" name  =  "Vindu"/>
 				</Entries>
